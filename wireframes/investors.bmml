@@ -1,0 +1,448 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1365" measuredH="1721" mockupW="1280" mockupH="1670">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="85" y="51" w="1280" h="1670" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Think%20Childcare%0Ahttp%3A//thinkchildcare.com.au</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="112" y="144" w="323" h="-1" measuredW="307" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C93%2C350%2C128%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E</map>
+        <size>32</size>
+        <text>thinkchildcare.com.au</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="974" y="151" w="-1" h="-1" measuredW="360" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Home%2C%20About%2C%20Investors%2C%20Careers%2C%20Contact%20Us</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="85" y="666" w="1280" h="488" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>image</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="85" y="179" w="1280" h="1542" measuredW="1280" measuredH="1542" zOrder="4" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="109" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="218" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="327" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="436" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="545" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="654" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="763" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="40" controlTypeID="com.balsamiq.mockups::Canvas" x="871" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="980" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="1089" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="1198" y="0" w="82" h="1542" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="28">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="412" y="264" w="486" h="-1" measuredW="292" measuredH="35" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>32</size>
+        <text>Investor%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="133" y="299" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2248%2C248%2C82%2C269%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2261%22/%3E</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="194" y="299" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>investors%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C248%2C164%2C269%22%20href%3D%22investors.bmml%22%20alt%3D%22investors%22%20id%3D%2262%22/%3E</map>
+        <text>Investors</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="194" y="325" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ASX%20Announcements</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="194" y="350" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Investor%20Fact%20Sheet</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Title" x="412" y="763" w="471" h="-1" measuredW="98" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>18</size>
+        <text>Our%20Policies</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="179" y="299" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::TextArea" x="412" y="320" w="625" h="237" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>14001853</borderColor>
+        <text>%22Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20%5Cr%5Cr%22Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20%5Cr%5Cr%22Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::List" x="412" y="784" w="409" h="111" measuredW="100" measuredH="131" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Announcement%20One%09%09%09%0AAnnouncement%20Two%0AAnnouncement%20Three%0AAnnouncement%20Four%0AAnnouncement%20Five%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Title" x="412" y="299" w="471" h="-1" measuredW="316" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>18</size>
+        <text>About%20Think%20Childcare%20%26%20Education%20Ltd</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::LineChart" x="1068" y="320" w="-1" h="-1" measuredW="187" measuredH="175" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Title" x="1068" y="299" w="148" h="-1" measuredW="142" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>18</size>
+        <text>Share%20price%20chart</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Title" x="412" y="728" w="486" h="-1" measuredW="309" measuredH="35" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>32</size>
+        <text>ASX%20Announcements</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::List" x="847" y="784" w="192" h="111" measuredW="100" measuredH="131" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>19/12/2013%09%09%09%0A20/12/2013%09%0A21/12/2013%09%0A22/12/2013%09%0A23/12/2013%09%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="133" y="763" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2248%2C712%2C82%2C733%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2288%22/%3E</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="194" y="763" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>investors%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C712%2C164%2C733%22%20href%3D%22investors.bmml%22%20alt%3D%22investors%22%20id%3D%2289%22/%3E</map>
+        <text>Investors</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Label" x="194" y="789" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ASX%20Announcements</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="194" y="814" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Investor%20Fact%20Sheet</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="179" y="789" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Button" x="847" y="954" w="192" h="26" measuredW="81" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::TextInput" x="412" y="955" w="409" h="-1" measuredW="130" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20email%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="412" y="925" w="623" h="-1" measuredW="507" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20email%20address%20below%20and%20hit%20subscribe%20to%20receive%20updates%20in%20direct%20to%20your%20inbox</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="133" y="1180" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2248%2C1129%2C82%2C1150%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2296%22/%3E</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="194" y="1180" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>investors%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C1129%2C164%2C1150%22%20href%3D%22investors.bmml%22%20alt%3D%22investors%22%20id%3D%2297%22/%3E</map>
+        <text>Investors</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="194" y="1206" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ASX%20Announcements</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="194" y="1231" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Investor%20Fact%20Sheet</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Label" x="179" y="1231" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Title" x="412" y="1145" w="486" h="-1" measuredW="305" measuredH="35" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>10470904</color>
+        <size>32</size>
+        <text>Investor%20Fact%20Sheets</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Image" x="412" y="1184" w="82" h="114" measuredW="77" measuredH="79" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2014%20Prospectus</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Button" x="847" y="1272" w="190" h="26" measuredW="78" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Download</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="1183" w="516" h="84" measuredW="200" measuredH="140" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>14001853</borderColor>
+        <text>%22Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="1184" w="626" h="126" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>6710886</borderColor>
+        <color>11839446</color>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="1311" w="626" h="126" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>6710886</borderColor>
+        <color>11839446</color>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Image" x="412" y="1311" w="82" h="114" measuredW="77" measuredH="79" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2014%20Prospectus</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="847" y="1399" w="190" h="26" measuredW="78" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Download</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="1310" w="516" h="84" measuredW="200" measuredH="140" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>14001853</borderColor>
+        <text>%22Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::StickyNote" x="1255" y="325" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Floating%20share%20price%20chart</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::StickyNote" x="127" y="371" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Floating%20sidebar%20menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="__group__" x="85" y="1492" w="1280" h="229" measuredW="1280" measuredH="229" zOrder="43" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1280" h="229" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="118">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="23" w="-1" h="-1" measuredW="103" measuredH="27" zOrder="1" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <text>Company</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="311" y="23" w="-1" h="-1" measuredW="148" measuredH="27" zOrder="2" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <text>Work%20With%20Us</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="59" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="3" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <href>about%26bm%3Babout.bmml%26bm%3Babout.bmml%26bm%3Babout.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C1500%2C150%2C1519%22%20href%3D%22about.bmml%22%20alt%3D%22about%22%20id%3D%223%22/%3E</map>
+            <size>16</size>
+            <text>About%20Us</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="95" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="4" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <href>investors%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C1536%2C150%2C1555%22%20href%3D%22investors.bmml%22%20alt%3D%22investors%22%20id%3D%224%22/%3E</map>
+            <size>16</size>
+            <text>Investors</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="131" w="-1" h="-1" measuredW="59" measuredH="19" zOrder="5" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <href>careers%26bm%3Bcareers.bmml%26bm%3Bcareers.bmml%26bm%3Bcareers.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C1572%2C141%2C1591%22%20href%3D%22careers.bmml%22%20alt%3D%22careers%22%20id%3D%225%22/%3E</map>
+            <size>16</size>
+            <text>Careers</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="167" w="-1" h="-1" measuredW="99" measuredH="19" zOrder="6" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <size>16</size>
+            <text>Privacy%20Policy</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="311" y="59" w="-1" h="-1" measuredW="125" measuredH="19" zOrder="7" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <href>current%20vacancies%26bm%3Bcurrent%20vacancies.bmml%26bm%3Bcurrent%20vacancies.bmml%26bm%3Bcurrent%20vacancies.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22311%2C1500%2C436%2C1519%22%20href%3D%22current%2520vacancies.bmml%22%20alt%3D%22current%20vacancies%22%20id%3D%227%22/%3E</map>
+            <size>16</size>
+            <text>Current%20Positions</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="558" y="23" w="-1" h="-1" measuredW="87" measuredH="27" zOrder="8" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <text>Support</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="558" y="59" w="-1" h="-1" measuredW="59" measuredH="19" zOrder="9" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>10470904</color>
+            <href>contact%20us%26bm%3Bcontact%20us.bmml%26bm%3Bcontact%20us.bmml%26bm%3Bcontact%20us.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22558%2C1500%2C617%2C1519%22%20href%3D%22contact%2520us.bmml%22%20alt%3D%22contact%20us%22%20id%3D%229%22/%3E</map>
+            <size>16</size>
+            <text>Contact</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Title" x="876" y="19" w="323" h="-1" measuredW="230" measuredH="27" zOrder="10" locked="false" isInGroup="118">
+          <controlProperties>
+            <align>right</align>
+            <color>10470904</color>
+            <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22876%2C1460%2C1199%2C1487%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2210%22/%3E</map>
+            <size>24</size>
+            <text>thinkchildcare.com.au</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="995" y="50" w="-1" h="-1" measuredW="204" measuredH="85" zOrder="11" locked="false" isInGroup="118">
+          <controlProperties>
+            <align>right</align>
+            <size>14</size>
+            <text>Think%20Childcare%20%26%20Education%20Ltd%20%5CrSuite%202%2C%202%20East%20Street%u2028Five%20Dock%20NSW%202046%u2028PO%20Box%20816%u2028</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::ButtonBar" x="974" y="151" w="-1" h="-1" measuredW="360" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2Cabout%26bm%3Babout.bmml%26bm%3Babout.bmml%26bm%3Babout.bmml%2Cinvestors%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%26bm%3Binvestors.bmml%2Ccareers%26bm%3Bcareers.bmml%26bm%3Bcareers.bmml%26bm%3Bcareers.bmml%2Ccontact%20us%26bm%3Bcontact%20us.bmml%26bm%3Bcontact%20us.bmml%26bm%3Bcontact%20us.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22889%2C100%2C947%2C121%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%22119%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22947%2C100%2C1006%2C121%22%20href%3D%22about.bmml%22%20alt%3D%22about%22%20id%3D%22119%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221006%2C100%2C1085%2C121%22%20href%3D%22investors.bmml%22%20alt%3D%22investors%22%20id%3D%22119%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221085%2C100%2C1157%2C121%22%20href%3D%22careers.bmml%22%20alt%3D%22careers%22%20id%3D%22119%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221157%2C100%2C1249%2C121%22%20href%3D%22contact%2520us.bmml%22%20alt%3D%22contact%20us%22%20id%3D%22119%22/%3E</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Home%2C%20About%2C%20Investors%2C%20Careers%2C%20Contact%20Us</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
